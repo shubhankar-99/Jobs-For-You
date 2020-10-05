@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Jobs-For-You/static/js/main.1d284d08.chunk.js",
+    "main.js.map": "/Jobs-For-You/static/js/main.1d284d08.chunk.js.map",
+    "runtime-main.js": "/Jobs-For-You/static/js/runtime-main.f162eda6.js",
+    "runtime-main.js.map": "/Jobs-For-You/static/js/runtime-main.f162eda6.js.map",
+    "static/js/2.8656695d.chunk.js": "/Jobs-For-You/static/js/2.8656695d.chunk.js",
+    "static/js/2.8656695d.chunk.js.map": "/Jobs-For-You/static/js/2.8656695d.chunk.js.map",
+    "index.html": "/Jobs-For-You/index.html",
+    "precache-manifest.1ca216d7f539ded8089f3ea2b4253433.js": "/Jobs-For-You/precache-manifest.1ca216d7f539ded8089f3ea2b4253433.js",
+    "service-worker.js": "/Jobs-For-You/service-worker.js",
+    "static/js/2.8656695d.chunk.js.LICENSE.txt": "/Jobs-For-You/static/js/2.8656695d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f162eda6.js",
+    "static/js/2.8656695d.chunk.js",
+    "static/js/main.1d284d08.chunk.js"
+  ]
+}
